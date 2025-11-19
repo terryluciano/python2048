@@ -16,10 +16,13 @@ This project is a desktop version of the popular 2048 puzzle game. It uses the `
 
 1. Clone the repository or download the source code.
 2. Navigate to the project directory:
+
     ```bash
     cd python2048
     ```
+
 3. Run the game using `uv`:
+
     ```bash
     uv run main.py
     ```
